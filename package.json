@@ -1,0 +1,15 @@
+{
+  "name": "noie",
+  "version": "1.0.0",
+  "description": "Internet explorer is old and dumb, send a nice message to those who are using this outdated browser",
+  "main": "noie.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vooxal/noie.git"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "voxal",
+  "license": "MIT"
+}
